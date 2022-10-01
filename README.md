@@ -7,7 +7,6 @@ I'm a solution architect, trainer, mentor, and full stack developer with 12 year
 ## GitHub Stats
 
 <a href="https://github.com/ryansalba1130">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryansalba1130&show_icons=true&theme=shades-of-purple&count_private=true" alt="ryansalba1130's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansalba1130&theme=shades-of-purple&layout=compact" 
     alt="ryansalba1130 GitHub Top Languages" />
 </a>
