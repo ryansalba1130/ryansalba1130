@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Alba</h1>
-<h3 align="center">A Professional .Net Developer</h3>
+<h3 align="center">A Full-stack .Net Developer</h3>
 
 ### Languages  
 
